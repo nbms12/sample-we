@@ -2,7 +2,7 @@
 set -e
 
 # Pull the Docker image from Docker Hub
-echo 
+echo "Op"
 
 # Run the Docker image as a container
 echo
